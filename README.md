@@ -22,8 +22,8 @@ I'm a software engineering undergraduate interested in all sorts of technologies
 
 ## 📫 Contact Me
 
-- **Email:** [sample@example.com](mailto:kovidhasubasinghe@gmail.com)
-- **LinkedIn:** [Your LinkedIn](https://www.linkedin.com/in/kovidha-subasinghe)
+- **Email:** [kovidhasubasinghe@gmail.com](mailto:kovidhasubasinghe@gmail.com)
+- **LinkedIn:** [Kovidha Subasinghe](https://www.linkedin.com/in/kovidha-subasinghe)
 
 
 <!-- Add your profile picture later:

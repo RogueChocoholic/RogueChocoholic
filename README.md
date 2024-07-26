@@ -20,12 +20,6 @@ I'm a software engineering undergraduate interested in all sorts of technologies
 
 ![Kovidha's GitHub stats](https://github-readme-stats.vercel.app/api?username=RogueChocoholic&show_icons=true&theme=radical)
 
-## 📫 Contact Me
-
-- **Email:** [kovidhasubasinghe@gmail.com](mailto:kovidhasubasinghe@gmail.com)
-- **LinkedIn:** [Kovidha Subasinghe](https://www.linkedin.com/in/kovidha-subasinghe)
-
-
 
 ## System Performance
 
@@ -48,6 +42,14 @@ PassMark PerformanceTest:
 ---
 
 Feel free to reach out to me through any of the above platforms. Looking forward to connecting with you!
+
+
+## 📫 Contact Me
+
+- **Email:** [kovidhasubasinghe@gmail.com](mailto:kovidhasubasinghe@gmail.com)
+- **LinkedIn:** [Kovidha Subasinghe](https://www.linkedin.com/in/kovidha-subasinghe)
+
+
 
 <!---
 RogueChocoholic/RogueChocoholic is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

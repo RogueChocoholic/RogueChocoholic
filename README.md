@@ -26,6 +26,9 @@ I'm a software engineering undergraduate interested in all sorts of technologies
 - **LinkedIn:** [Kovidha Subasinghe](https://www.linkedin.com/in/kovidha-subasinghe)
 
 
+
+££ My System
+<a href="https://www.passmark.com/baselines/V11/display.php?id=215416653483"><img src="https://www.passmark.com/baselines/V10/images/215416653483.png" alt="PassMark Rating" border="0" /></a>
 <!-- Add your profile picture later:
 <img src="URL_TO_YOUR_PROFILE_PICTURE" alt="Kovidha Subasinghe" width="200"/>
 -->

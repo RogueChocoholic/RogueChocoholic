@@ -27,8 +27,20 @@ I'm a software engineering undergraduate interested in all sorts of technologies
 
 
 
-££ My System
-<a href="https://www.passmark.com/baselines/V11/display.php?id=215416653483"><img src="https://www.passmark.com/baselines/V10/images/215416653483.png" alt="PassMark Rating" border="0" /></a>
+## System Performance
+
+PassMark PerformanceTest:
+
+[![PassMark Rating](https://www.passmark.com/baselines/V10/images/215416653483.png)](https://www.passmark.com/baselines/V11/display.php?id=215416653483)
+
+### Detailed Scores:
+- **Overall PassMark Rating:** 6439.4 (69th Percentile)
+- **CPU Mark:** 17230.2 (60th Percentile)
+- **2D Graphics Mark:** 529.3 (33rd Percentile)
+- **3D Graphics Mark:** 11694.8 (59th Percentile)
+- **Memory Mark:** 2495.3 (40th Percentile)
+- **Disk Mark:** 14764.2 (55th Percentile)
+
 <!-- Add your profile picture later:
 <img src="URL_TO_YOUR_PROFILE_PICTURE" alt="Kovidha Subasinghe" width="200"/>
 -->

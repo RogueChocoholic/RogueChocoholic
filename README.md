@@ -48,6 +48,7 @@ Feel free to reach out to me through any of the above platforms. Looking forward
 
 - **Email:** [kovidhasubasinghe@gmail.com](mailto:kovidhasubasinghe@gmail.com)
 - **LinkedIn:** [Kovidha Subasinghe](https://www.linkedin.com/in/kovidha-subasinghe)
+- **Portfolio:** [View My Portfolio](https://roguechocoholic-test-portfolio.vercel.app)
 
 
 

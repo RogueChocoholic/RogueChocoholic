@@ -19,6 +19,7 @@ I'm a software engineering undergraduate interested in all sorts of technologies
 ## 📊 GitHub Stats
 
 ![Kovidha's GitHub stats](https://github-readme-stats.vercel.app/api?username=RogueChocoholic&show_icons=true&theme=radical)
+
 <img align='center' src="https://github-readme-stats.vercel.app/api/top-langs/?username=RogueChocoholic&layout=compact" />
 
 

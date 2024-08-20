@@ -1,6 +1,6 @@
 # Hi there, I'm Kovidha Subasinghe 👋
 
-I'm a software engineering undergraduate interested in all sorts of technologies. Currently skilled at both frontend and backend web development, I am always pursuing new knowledge in programming.
+I'm a software engineering undergraduate interested in all sorts of technologies. Currently skilled at both frontend and backend web development, and a lil bit of Java. I am always pursuing new knowledge in programming.
 
 ## 🧑‍💻 About Me
 

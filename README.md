@@ -1,7 +1,9 @@
+<img src="https://media.licdn.com/dms/image/v2/D5616AQHBy0LzpvZwow/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1727427001320?e=1733356800&v=beta&t=bD7fVb8FoMElP8ip63VvZ-SGc4gQ8m1j59cM0K6NaeY" alt="Kovidha Subasinghe" />
+
 # Hi there, I'm Kovidha Subasinghe 👋
 Passionate Software Engineer | Web Developer | OOP Enthusiast | Exploring Full-Stack Development
 
-I'm a software engineering undergraduate interested in all sorts of technologies. Currently skilled at both frontend and backend web development, and a lil bit of Java. I am always pursuing new knowledge in programming.
+I'm a software engineering undergraduate interested in all sorts of technologies. Currently skilled at both web development, Java and a lil bit of python. I am always pursuing new knowledge in programming.
 
 ## 🧑‍💻 About Me
 
@@ -44,8 +46,6 @@ I'm a software engineering undergraduate interested in all sorts of technologies
 <img src="https://github-profile-trophy.vercel.app/?username=RogueChocoholic&theme=radical&no-frame=true&margin-w=10" alt="GitHub Trophies" />
 </p>
 
-![Visitor Count](https://komarev.com/ghpvc/?username=RogueChocoholic&color=blue)
-
 
 ## System Performance
 
@@ -59,9 +59,7 @@ I'm a software engineering undergraduate interested in all sorts of technologies
 - **Memory Mark:** 2495.3 (40th Percentile)
 - **Disk Mark:** 14764.2 (55th Percentile)
 
-<!-- Add your profile picture later:
-<img src="URL_TO_YOUR_PROFILE_PICTURE" alt="Kovidha Subasinghe" width="200"/>
--->
+
 
 ---
 
@@ -77,9 +75,15 @@ Feel free to reach out to me through any of the above platforms. Looking forward
 - 📱 **Whatsapp** [Kovidha Subasinghe](https://wa.me/message/UKXKP62H4BLDJ1)
 
 
+
+
+
+
 ### Fun Fact
 🍫 Chocolate lover and a code enthusiast who enjoys solving problems with a cup of coffee ☕.
 
+
+![Visitor Count](https://komarev.com/ghpvc/?username=RogueChocoholic&color=blue)
 <!---
 RogueChocoholic/RogueChocoholic is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

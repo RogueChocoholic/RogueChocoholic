@@ -33,17 +33,17 @@ I'm a software engineering undergraduate interested in all sorts of technologies
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RogueChocoholic&show_icons=true&theme=radical" alt="Kovidha's GitHub stats" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=RogueChocoholic&theme=radical" alt="GitHub streak"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=RogueChocoholic&show_icons=true&theme=nord" alt="Kovidha's GitHub stats" width="380px" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=RogueChocoholic&theme=nord" alt="GitHub streak" width="400px" />
 </p>
 <p align="center">
-<img align='center' src="https://github-readme-stats.vercel.app/api/top-langs/?username=RogueChocoholic&layout=compact" />
+<img align='center' src="https://github-readme-stats.vercel.app/api/top-langs/?username=RogueChocoholic&theme=nord" />
 </p>
 
-![Kovidha's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RogueChocoholic&theme=radical)
+![Kovidha's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RogueChocoholic&theme=nord)
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=RogueChocoholic&theme=radical&no-frame=true&margin-w=10" alt="GitHub Trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=RogueChocoholic&theme=nord&no-frame=true&margin-w=10" alt="GitHub Trophies" />
 </p>
 
 

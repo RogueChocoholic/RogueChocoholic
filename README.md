@@ -46,7 +46,7 @@ I'm a software engineering undergraduate interested in all sorts of technologies
 <img src="https://github-profile-trophy.vercel.app/?username=RogueChocoholic&theme=nord&no-frame=true&margin-w=10" alt="GitHub Trophies" />
 </p>
 
-
+<!--
 ## System Performance
 
 [![PassMark Rating](https://www.passmark.com/baselines/V10/images/215416653483.png)](https://www.passmark.com/baselines/V11/display.php?id=215416653483)
@@ -59,7 +59,7 @@ I'm a software engineering undergraduate interested in all sorts of technologies
 - **Memory Mark:** 2495.3 (40th Percentile)
 - **Disk Mark:** 14764.2 (55th Percentile)
 
-
+-->
 
 ---
 

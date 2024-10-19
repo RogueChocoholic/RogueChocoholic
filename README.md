@@ -57,20 +57,21 @@ I'm a passionate software engineering undergraduate with a strong focus on web a
 
 ## 📊 GitHub Stats
 
-<p align="center">
+<p align="center">  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RogueChocoholic&theme=nord&layout=compact" alt="Top Languages" />  <br>
   <img src="https://github-readme-stats.vercel.app/api?username=RogueChocoholic&show_icons=true&theme=nord" alt="Kovidha's GitHub stats" width="380px" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=RogueChocoholic&theme=nord" alt="GitHub streak" width="400px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RogueChocoholic&theme=nord" alt="Top Languages" />
+ 
 </p>
-
-![Kovidha's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RogueChocoholic&theme=nord)
 
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=RogueChocoholic&theme=nord&no-frame=true&margin-w=10" alt="GitHub Trophies" />
 </p>
 
----
+<!--![Kovidha's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RogueChocoholic&theme=nord) -->
 
+
+---
 ### Fun Fact
 🍫 Lover of chocolate and code, powered by coffee ☕.
 

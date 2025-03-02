@@ -2,9 +2,9 @@
 
 <h2 align="center">Hi there, I'm Kovidha Subasinghe 👋</h2>
 
-**Aspiring Software Engineer | Web Developer | Exploring Full-Stack Development**
+**Aspiring Software Engineer | Full-Stack Explorer | Code & Coffee Addict ☕**
 
-I'm a passionate software engineering undergraduate with a strong focus on web and full-stack development. Skilled in Java, JavaScript, PHP, and always eager to learn and grow in the tech space.
+👋 Hi, I'm Kovidha Subasinghe, an aspiring software engineer passionate about web and full-stack development. I love building things with Java, JavaScript, and PHP while constantly learning and improving! 🚀
 
 &nbsp;
 
@@ -17,22 +17,25 @@ I'm a passionate software engineering undergraduate with a strong focus on web a
 - 💬 **Telegram:** [Kovidha Subasinghe](https://t.me/RogueChocoholic)
 - 📱 **Whatsapp** [Kovidha Subasinghe](https://wa.me/message/UKXKP62H4BLDJ1)
 -->
+
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kovidhasubasinghe@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kovidha-subasinghe)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=appveyor&logoColor=white)](https://roguechocoholic-test-portfolio.vercel.app)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/message/UKXKP62H4BLDJ1)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/RogueChocoholic)
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RogueChocoholic)
 
 
   &nbsp;
 
 ## 🧑‍💻 About Me
 
-- 🎓 **Software Engineering Undergraduate** at the Java Institute
-- 🌐 Skilled in frontend and backend web development
-- 💻 Proficient in **Java**, **JavaScript**, **PHP**, and **MySQL**
-- 🎨 Frontend enthusiast using **Bootstrap** for sleek web designs
-- 🚀 Constantly exploring new technologies and improving full-stack development skills
+- 🎓 **Software Engineering Undergraduate** at the Java Institute  
+- 🌍 Passionate about **web and full-stack development**  
+- 💻 Skilled in **Java, JavaScript, PHP, MySQL**  
+- 🎨 Love creating **sleek and responsive designs** with Bootstrap  
+- 🚀 Always exploring new technologies & improving my skills  
+
 
   &nbsp;
 
@@ -69,7 +72,7 @@ I'm a passionate software engineering undergraduate with a strong focus on web a
 
 ---
 ### Fun Fact
-🍫 Lover of chocolate and code, powered by coffee ☕.
+🍫 Chocolate fuels my creativity, code powers my dreams, and coffee keeps it all running! ☕💻
 
 &nbsp;
 

@@ -25,7 +25,6 @@
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/RogueChocoholic)
 [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RogueChocoholic)
 
-
   &nbsp;
 
 ## 🧑‍💻 About Me
@@ -50,7 +49,7 @@
   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
   ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
   ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-    <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" />
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" />
 
   &nbsp;
 
@@ -60,7 +59,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RogueChocoholic&theme=nord&layout=compact" alt="Top Languages" />  <br>
   <img src="https://github-readme-stats.vercel.app/api?username=RogueChocoholic&show_icons=true&theme=nord" alt="Kovidha's GitHub stats" width="380px" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=RogueChocoholic&theme=nord" alt="GitHub streak" width="400px" />
- 
 </p>
 
 <p align="center">

@@ -65,7 +65,7 @@
 <img src="https://github-profile-trophy.vercel.app/?username=RogueChocoholic&theme=nord&no-frame=true&margin-w=10" alt="GitHub Trophies" />
 </p>
 
-<!--![Kovidha's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RogueChocoholic&theme=nord) -->
+<!-- [Kovidha's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RogueChocoholic&theme=nord) -->
 
 
 ---

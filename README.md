@@ -1,4 +1,4 @@
-<img src="https://media.licdn.com/dms/image/v2/D5616AQHBy0LzpvZwow/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1727427001320?e=1745452800&v=beta&t=EBXnaaruvyCPPSed8ivIR9tmFBRJYsvrgg_j9AGVYYs" alt="Kovidha Subasinghe" />
+<img  src="https://media.licdn.com/dms/image/v2/D5616AQHBy0LzpvZwow/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1727427001320?e=1750896000&v=beta&t=jLAqRFZPcqtSPycRdVkHaCKR_qHVbrKN-QE6jh85k_c" alt="Kovidha Subasinghe" />
 
 <h2 align="center">Hi there, I'm Kovidha Subasinghe 👋</h2>
 
